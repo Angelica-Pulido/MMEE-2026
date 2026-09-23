@@ -5,7 +5,7 @@ Here you will find all the information and data you will need for the computer a
 
 ### Repository's content
 
-- MolGen2025_Manual - Manual with the exercises you should follow.
+- MolGen2026_Manual - Manual with the exercises you should follow.
 
 - #### [1.Frogs_Sanger](1.Frogs_Sanger) - This directory contains the data for the first project.
 
