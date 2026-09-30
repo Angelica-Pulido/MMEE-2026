@@ -61,11 +61,11 @@ library(ape)
 ```
 Load all the packages you previously installed and call the help of the following functions, in the help text displayed you should be able to identify the package to which the function belongs:
 ```
-dist.ml?
-root?
-basic.stats?
-pairwise.neifst?
-genind2genpop?
-mantel.randtest?
-snmf?
+?dist.ml
+?root
+?basic.stats
+?pairwise.neifst
+?genind2genpop
+?mantel.randtest
+?snmf
 ```
