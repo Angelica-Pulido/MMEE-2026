@@ -68,4 +68,5 @@ Load all the packages you previously installed and call the help of the followin
 ?genind2genpop
 ?mantel.randtest
 ?snmf
+?phyDat
 ```
